@@ -1,3 +1,6 @@
+![challenge-1-screenshot1](https://user-images.githubusercontent.com/79487809/111044069-9127b900-8403-11eb-83d4-6b58f4199857.png)
+![challenge-1-screenshot2](https://user-images.githubusercontent.com/79487809/111044070-938a1300-8403-11eb-83e3-098bc667f41f.png)
+![challenge-1-screenshot3](https://user-images.githubusercontent.com/79487809/111044073-9553d680-8403-11eb-9c12-37c91e30e53b.png)
 # Code Refactor Starter Code
 Read me
 
