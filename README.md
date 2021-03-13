@@ -11,3 +11,4 @@ Read me
 What I did
 
     For this project I reviewed the existing code and style sheet to identify missing components and further optimize the code. I identified a broken link intended to take the user to the reputation management section as well as missing alt tags for images. There were several issues with the style sheet as far as cascade principles go. I rearranged the layout to better match the flow of the HTML file code and condensed sections where possible. Converted an image element to self closing. Added image alt's to increase accessability. I also removed the unneeded stlye clear: both;. Removed un used lines where possible as well.
+https://wadep23.github.io/Horiseon/
